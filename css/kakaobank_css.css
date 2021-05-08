@@ -7,42 +7,6 @@ dl,ul,ol,menu,li{
     list-style: none;
 }
 
-img{
-    border: 0 none;
-}
-
-#kakaoWrap {
-    min-width: 1120px;
-    height: 100%
-}
-
-#kakaoHead{
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 100;
-    min-width: 828px;
-    height: 81px;
-    padding: 0 125px 0 170px;
-}
-
-#kakaoContent {
-    width: 1120px;
-    min-height: 100%;
-    margin: 0 auto -120px
-}
-
-.intro_main{
-    position: relative;
-    width: 1200px;
-    height: 884px;
-    background-image: url(images/main-bg2.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    z-index: 1;
-    margin: auto;
-}
 
 .nav_items{
     margin: auto;
